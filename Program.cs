@@ -1,0 +1,14 @@
+﻿EjercicioCsharpRepaso.Ejercicios ejercicio1 = new EjercicioCsharpRepaso.Ejercicios();
+//ejercicio1.ejercicio1();
+//ejercicio1.ejercicio2();
+//ejercicio1.ejercicio3();
+//ejercicio1.ejercicio4();
+//ejercicio1.ejercicio5();
+//ejercicio1.ejercicio6();
+//ejercicio1.ejercicio7();
+//ejercicio1.ejercicio8();
+//ejercicio1.ejercicio9();
+//ejercicio1.ejercicio10();
+//ejercicio1.ejercicio11();
+//ejercicio1.ejercicio12();
+ejercicio1.ejercicio13();
